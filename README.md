@@ -98,6 +98,11 @@ python main.py
 - Improved readability and maintainability  
 - Added documentation and comments  
 
+# 🎥 Demonstration Video
+<div align="center">
+
+[![SOC Lab Demo](https://img.youtube.com/vi/oBGkmc-zWJM/0.jpg)](https://www.youtube.com/watch?v=_oBGkmc-zWJM)
+</div>
 
 
 ## 🚧 Future Improvements
