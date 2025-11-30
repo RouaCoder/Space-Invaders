@@ -1,5 +1,4 @@
 # 🚀 Alien Invasion Game – Pygame
-A fast-paced arcade-style game built using **Python** and **Pygame**.
 
 
 
