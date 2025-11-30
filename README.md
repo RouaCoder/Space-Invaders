@@ -14,7 +14,7 @@ The goal of the game is simple:
 
 This project is based on an existing codebase that I **improved**, adding new features, more polished gameplay, better visuals, and sound effects.
 
----
+
 
 ## 🎮 Features
 
